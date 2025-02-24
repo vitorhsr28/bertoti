@@ -24,8 +24,4 @@ Comer saudável vs. Comer algo rápido
 
 Andar a pé vs. Pegar um ônibus
     Andar a pé é mais barato e faz bem para a saúde, mas demora mais.
-<<<<<<< HEAD
     Pegar um ônibus é mais rápido, mas custa dinheiro.
-=======
-    Pegar um ônibus é mais rápido, mas custa dinheiro.
->>>>>>> 83248c7e529136b107ef602ccc8f104910d06531
